@@ -81,7 +81,8 @@ endmodule
 
 ## Timing diagram 
 ### Half Subtractor
-![image](https://github.com/Jayamani25/Experiment--03-Half-Subtractor-and-Full-subtractor/assets/85949888/d6c2c1f7-16eb-4450-acea-c5a09ee79504)
+![266774642-5a331fbc-3476-4b48-83dc-447ef6632c7f](https://github.com/Jayamani25/Experiment--03-Half-Subtractor-and-Full-subtractor/assets/85949888/d9be10b9-16e2-4905-bdbc-1f929eb7e8e9)
+
 
 
 ### Full Subtractor
